@@ -54,6 +54,10 @@ export const MenuButton = styled.button`
   align-items: center;
   flex-shrink: 0;
 
+  svg {
+    margin-left: 10px;
+  }
+
   > span {
     display: none;
   }
